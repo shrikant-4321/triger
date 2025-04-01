@@ -1,5 +1,5 @@
-# triger
-<!DOCTYPE html>
+# welcome to image-compressor
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
