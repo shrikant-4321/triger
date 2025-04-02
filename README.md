@@ -1,5 +1,4 @@
-# welcome to image-compressor
-
+# welcome to image-compressor this website create by Shrikant
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,7 +18,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
     <!-- AdMob SDK -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client="ca-app-pub-3535001234721478~5850223904" crossorigin="anonymous"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-3535001234721478~5850223904" crossorigin="anonymous"></script>
     
     <style>
         :root {
